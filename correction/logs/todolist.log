@@ -1,0 +1,102 @@
+info: test {"service":"todo-list","timestamp":"2023-10-11 11:39:37"}
+error: test {"service":"todo-list","timestamp":"2023-10-11 11:39:37"}
+error: something went wrong {"service":"todo-list","stack":"Error: something went wrong\n    at Object.<anonymous> (D:\\OCLOCK\\HATI\\S05\\E07\\correction\\tools\\logger.js:42:11)\n    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n    at Module.load (node:internal/modules/cjs/loader:1037:32)\n    at Module._load (node:internal/modules/cjs/loader:878:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-10-11 11:39:37"}
+{"level":"info","message":"test","service":"todo-list","timestamp":"2023-10-11 11:39:58"}
+{"level":"error","message":"test","service":"todo-list","timestamp":"2023-10-11 11:39:58"}
+{"level":"error","message":"something went wrong","service":"todo-list","stack":"Error: something went wrong\n    at Object.<anonymous> (D:\\OCLOCK\\HATI\\S05\\E07\\correction\\tools\\logger.js:42:11)\n    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n    at Module.load (node:internal/modules/cjs/loader:1037:32)\n    at Module._load (node:internal/modules/cjs/loader:878:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-10-11 11:39:58"}
+{"level":"info","message":"test","service":"todo-list","timestamp":"2023-10-11 11:40:09"}
+{"level":"error","message":"test","service":"todo-list","timestamp":"2023-10-11 11:40:09"}
+{"level":"error","message":"something went wrong","service":"todo-list","stack":"Error: something went wrong\n    at Object.<anonymous> (D:\\OCLOCK\\HATI\\S05\\E07\\correction\\tools\\logger.js:42:11)\n    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n    at Module.load (node:internal/modules/cjs/loader:1037:32)\n    at Module._load (node:internal/modules/cjs/loader:878:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-10-11 11:40:09"}
+{"level":"info","message":"test","service":"todo-list","timestamp":"2023-10-11 11:42:39"}
+{"level":"error","message":"test","service":"todo-list","timestamp":"2023-10-11 11:42:39"}
+{"level":"error","message":"something went wrong","service":"todo-list","stack":"Error: something went wrong\n    at Object.<anonymous> (D:\\OCLOCK\\HATI\\S05\\E07\\correction\\tools\\logger.js:42:11)\n    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n    at Module.load (node:internal/modules/cjs/loader:1037:32)\n    at Module._load (node:internal/modules/cjs/loader:878:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-10-11 11:42:39"}
+{"level":"info","message":"test","service":"todo-list","timestamp":"2023-10-11 11:42:48"}
+{"level":"error","message":"test","service":"todo-list","timestamp":"2023-10-11 11:42:48"}
+{"level":"error","message":"something went wrong","service":"todo-list","stack":"Error: something went wrong\n    at Object.<anonymous> (D:\\OCLOCK\\HATI\\S05\\E07\\correction\\tools\\logger.js:42:11)\n    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n    at Module.load (node:internal/modules/cjs/loader:1037:32)\n    at Module._load (node:internal/modules/cjs/loader:878:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-10-11 11:42:48"}
+{"level":"info","message":"test","service":"todo-list","timestamp":"2023-10-11 11:42:55"}
+{"level":"error","message":"test","service":"todo-list","timestamp":"2023-10-11 11:42:55"}
+{"level":"error","message":"something went wrong","service":"todo-list","stack":"Error: something went wrong\n    at Object.<anonymous> (D:\\OCLOCK\\HATI\\S05\\E07\\correction\\tools\\logger.js:42:11)\n    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n    at Module.load (node:internal/modules/cjs/loader:1037:32)\n    at Module._load (node:internal/modules/cjs/loader:878:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2023-10-11 11:42:55"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:46:08"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:46:51"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:46:52"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:46:53"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:47:14"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:47:15"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:47:17"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:47:18"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:47:54"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:47:54"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:48:04"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:48:05"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:48:11"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:48:11"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:50:00"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:50:01"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:50:27"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:50:27"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:50:33"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:50:34"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:52:04"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:52:05"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:52:07"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:52:07"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:52:23"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:52:24"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:52:39"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:52:39"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:52:50"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:52:51"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:53:01"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:53:02"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:53:17"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:53:17"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:53:18"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:53:19"}
+{"level":"error","message":"\u001b[32minfo\u001b[39m: test {\"service\":\"todo-list\",\"timestamp\":\"2023-10-11 11:42:48\"} \u001b[31merror\u001b[39m: test {\"service\":\"todo-list\",\"timestamp\":\"2023-10-11 11:42:48\"} \u001b[31merror\u001b[39m: something went wrong {\"service\":\"todo-list\",\"stack\":\"Error: something went wrong\\n    at Object.<anonymous> (D:\\\\OCLOCK\\\\HATI\\\\S05\\\\E07\\\\correction\\\\tools\\\\logger.js:42:11)\\n    at Module._compile (node:internal/modules/cjs/loader:1159:14)\\n    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\\n    at Module.load (node:internal/modules/cjs/loader:1037:32)\\n    at Module._load (node:internal/modules/cjs/loader:878:12)\\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\\n    at node:internal/main/run_main_module:23:47\",\"timestamp\":\"2023-10-11 11:42:48\"}","service":"todo-list","timestamp":"2023-10-11 11:53:20"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:54:11"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:54:12"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:54:14"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:54:15"}
+{"level":"error","message":"\u001b[32minfo\u001b[39m: test {\"service\":\"todo-list\",\"timestamp\":\"2023-10-11 11:42:48\"} \u001b[31merror\u001b[39m: test {\"service\":\"todo-list\",\"timestamp\":\"2023-10-11 11:42:48\"} \u001b[31merror\u001b[39m: something went wrong {\"service\":\"todo-list\",\"stack\":\"Error: something went wrong\\n    at Object.<anonymous> (D:\\\\OCLOCK\\\\HATI\\\\S05\\\\E07\\\\correction\\\\tools\\\\logger.js:42:11)\\n    at Module._compile (node:internal/modules/cjs/loader:1159:14)\\n    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\\n    at Module.load (node:internal/modules/cjs/loader:1037:32)\\n    at Module._load (node:internal/modules/cjs/loader:878:12)\\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\\n    at node:internal/main/run_main_module:23:47\",\"timestamp\":\"2023-10-11 11:42:48\"}","service":"todo-list","timestamp":"2023-10-11 11:54:19"}
+{"level":"info","message":"TodoList API started on 3000","service":"todo-list","timestamp":"2023-10-11 11:54:36"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:54:36"}
+{"level":"error","message":"\u001b[32minfo\u001b[39m: test {\"service\":\"todo-list\",\"timestamp\":\"2023-10-11 11:42:48\"} \u001b[31merror\u001b[39m: test {\"service\":\"todo-list\",\"timestamp\":\"2023-10-11 11:42:48\"} \u001b[31merror\u001b[39m: something went wrong {\"service\":\"todo-list\",\"stack\":\"Error: something went wrong\\n    at Object.<anonymous> (D:\\\\OCLOCK\\\\HATI\\\\S05\\\\E07\\\\correction\\\\tools\\\\logger.js:42:11)\\n    at Module._compile (node:internal/modules/cjs/loader:1159:14)\\n    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\\n    at Module.load (node:internal/modules/cjs/loader:1037:32)\\n    at Module._load (node:internal/modules/cjs/loader:878:12)\\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\\n    at node:internal/main/run_main_module:23:47\",\"timestamp\":\"2023-10-11 11:42:48\"}","service":"todo-list","timestamp":"2023-10-11 11:54:39"}
+{"level":"info","message":"TodoList API started on 3000 in mode \u001b[32minfo\u001b[39m: test {\"service\":\"todo-list\",\"timestamp\":\"2023-10-11 11:42:48\"} \u001b[31merror\u001b[39m: test {\"service\":\"todo-list\",\"timestamp\":\"2023-10-11 11:42:48\"} \u001b[31merror\u001b[39m: something went wrong {\"service\":\"todo-list\",\"stack\":\"Error: something went wrong\\n    at Object.<anonymous> (D:\\\\OCLOCK\\\\HATI\\\\S05\\\\E07\\\\correction\\\\tools\\\\logger.js:42:11)\\n    at Module._compile (node:internal/modules/cjs/loader:1159:14)\\n    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\\n    at Module.load (node:internal/modules/cjs/loader:1037:32)\\n    at Module._load (node:internal/modules/cjs/loader:878:12)\\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\\n    at node:internal/main/run_main_module:23:47\",\"timestamp\":\"2023-10-11 11:42:48\"}","service":"todo-list","timestamp":"2023-10-11 11:55:40"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:55:40"}
+{"level":"info","message":"TodoList API started on 3000 in mode production","service":"todo-list","timestamp":"2023-10-11 11:56:20"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:56:20"}
+{"level":"info","message":"TodoList API started on 3000 in mode developpement","service":"todo-list","timestamp":"2023-10-11 11:56:34"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:56:35"}
+{"level":"info","message":"TodoList API started on 3000 in mode developpement","service":"todo-list","timestamp":"2023-10-11 11:56:47"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:56:48"}
+{"level":"warn","message":"404 - Category 65265303fbef07433af06f4c not found by ::1","service":"todo-list","timestamp":"2023-10-11 11:57:05"}
+{"level":"info","message":"TodoList API started on 3000 in mode developpement","service":"todo-list","timestamp":"2023-10-11 11:57:55"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:57:55"}
+{"level":"info","message":"TodoList API started on 3000 in mode developpement","service":"todo-list","timestamp":"2023-10-11 11:58:04"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:58:04"}
+{"level":"info","message":"TodoList API started on 3000 in mode developpement","service":"todo-list","timestamp":"2023-10-11 11:58:20"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:58:21"}
+{"kind":"ObjectId","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Category\"","path":"_id","reason":{},"service":"todo-list","stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Category\"\n    at ObjectId.cast (D:\\OCLOCK\\HATI\\S05\\E07\\correction\\node_modules\\mongoose\\lib\\schema\\objectid.js:250:11)\n    at SchemaType.applySetters (D:\\OCLOCK\\HATI\\S05\\E07\\correction\\node_modules\\mongoose\\lib\\schematype.js:1219:12)\n    at SchemaType.castForQuery (D:\\OCLOCK\\HATI\\S05\\E07\\correction\\node_modules\\mongoose\\lib\\schematype.js:1631:15)\n    at cast (D:\\OCLOCK\\HATI\\S05\\E07\\correction\\node_modules\\mongoose\\lib\\cast.js:375:32)\n    at Query.cast (D:\\OCLOCK\\HATI\\S05\\E07\\correction\\node_modules\\mongoose\\lib\\query.js:4910:12)\n    at Query._castConditions (D:\\OCLOCK\\HATI\\S05\\E07\\correction\\node_modules\\mongoose\\lib\\query.js:2232:10)\n    at model.Query._findOne (D:\\OCLOCK\\HATI\\S05\\E07\\correction\\node_modules\\mongoose\\lib\\query.js:2519:8)\n    at model.Query.exec (D:\\OCLOCK\\HATI\\S05\\E07\\correction\\node_modules\\mongoose\\lib\\query.js:4430:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async D:\\OCLOCK\\HATI\\S05\\E07\\correction\\routes\\category.js:23:22","stringValue":"\"1\"","timestamp":"2023-10-11 11:58:23","value":"1","valueType":"string"}
+{"level":"warn","message":"404 - Category 65265303fbef07433af06f4c not found by ::1","service":"todo-list","timestamp":"2023-10-11 11:58:33"}
+{"level":"info","message":"TodoList API started on 3000 in mode developpement","service":"todo-list","timestamp":"2023-10-11 11:59:14"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:59:14"}
+{"level":"info","message":"TodoList API started on 3000 in mode developpement","service":"todo-list","timestamp":"2023-10-11 11:59:46"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:59:46"}
+{"level":"info","message":"TodoList API started on 3000 in mode developpement","service":"todo-list","timestamp":"2023-10-11 11:59:58"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 11:59:58"}
+{"__v":0,"_id":"65265303fbef07433af06f4b","name":"Urgent"}
+{"level":"info","message":"TodoList API started on 3000 in mode developpement","service":"todo-list","timestamp":"2023-10-11 12:01:23"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 12:01:23"}
+{"level":"info","message":"TodoList API started on 3000 in mode developpement","service":"todo-list","timestamp":"2023-10-11 12:01:35"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 12:01:35"}
+{"level":"info","message":"TodoList API started on 3000 in mode developpement","service":"todo-list","timestamp":"2023-10-11 12:04:19"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 12:04:19"}
+{"level":"info","message":"TodoList API started on 3000 in mode developpement","service":"todo-list","timestamp":"2023-10-11 12:04:28"}
+{"level":"info","message":"Connection to MongoDB Established","service":"todo-list","timestamp":"2023-10-11 12:04:28"}
+{"level":"info","message":"GET /categories/65265303fbef07433af06f4b ::1","service":"todo-list","timestamp":"2023-10-11 12:04:38"}
+{"level":"info","message":"GET /gergre ::1","service":"todo-list","timestamp":"2023-10-11 12:04:48"}
+{"level":"info","message":"GET /todos ::1","service":"todo-list","timestamp":"2023-10-11 12:04:57"}
+{"level":"info","message":"POST /todos ::1","service":"todo-list","timestamp":"2023-10-11 12:05:03"}
+{"_message":"Todo validation failed","errors":{"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Todo validation failed: title: Path `title` is required.","service":"todo-list","stack":"ValidationError: Todo validation failed: title: Path `title` is required.\n    at Document.invalidate (D:\\OCLOCK\\HATI\\S05\\E07\\correction\\node_modules\\mongoose\\lib\\document.js:3173:32)\n    at D:\\OCLOCK\\HATI\\S05\\E07\\correction\\node_modules\\mongoose\\lib\\document.js:2966:17\n    at D:\\OCLOCK\\HATI\\S05\\E07\\correction\\node_modules\\mongoose\\lib\\schematype.js:1367:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2023-10-11 12:05:03"}
+{"level":"info","message":"POST /fref ::1","service":"todo-list","timestamp":"2023-10-11 12:05:08"}
+{"level":"info","message":"GET /todos ::1","service":"todo-list","timestamp":"2023-10-11 12:07:10"}
